@@ -10,4 +10,4 @@ Didalam repo ini berisi :
 4. foler views yang berisi halaman html
 5. dan app.py yang menjelaskan bagaimana metode get dan post terjadi
 
-Kalian bisa gunakan editor kode apapun untuk running kode python ini, jangan lupa untuk menginstall pandas dan mulailah membuat program!
+Kalian bisa gunakan editor kode apapun untuk running kode python ini, dan running program dengan /nilai, jangan lupa untuk menginstall pandas dan mulailah membuat program!
